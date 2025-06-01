@@ -1,0 +1,6 @@
+pandas==2.2.3
+pyarrow==20.0.0
+pyspark==4.0.0
+findspark==2.0.1
+nbformat==5.10.4
+scikit-learn==1.6.1
