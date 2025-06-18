@@ -1,6 +1,6 @@
 pandas==2.2.3
 pyarrow==20.0.0
-pyspark==4.0.0
+pyspark==3.5.6
 findspark==2.0.1
 nbformat==5.10.4
 scikit-learn==1.6.1
@@ -9,3 +9,7 @@ statsmodels==0.14.4
 shap==0.47.2
 matplotlib==3.10.3
 matplotlib-inline==0.1.7
+synapseml==1.0.11
+lightgbm==4.6.0
+
+
